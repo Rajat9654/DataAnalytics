@@ -75,47 +75,47 @@ Link of code: https://github.com/Rajat9654/DataAnalytics/tree/main/Part%202%20-%
 
 Link of dashboard, Images: https://github.com/Rajat9654/DataAnalytics/tree/main/Part%203%20-%20PowerBI
 
-## Conclusion:
+## Analysis:
 
 ### Ratings vs Earnings
-* It is evident from plot that average earnings increase with ratings exception being highest rated single movie 'Shawshank Redeption (1994)' and second highest rated single movie 'The Godfather (1972)'. These could be due to several reason one being inflation not adjusted over years other being some extrenal factors like strike, economic downfall, advertisment not done during movie release date etc.
+* The plot indicates that, on average, earnings tend to increase with higher ratings. However, there are exceptions, such as the highest-rated single movie 'Shawshank Redemption (1994)' and the second highest-rated single movie 'The Godfather (1972)'. Various factors like inflation not being adjusted over the years, external circumstances like strikes, economic downturns, or lack of effective advertising during the movie's release, could contribute to these deviations.
 
 ![image](https://github.com/Rajat9654/DataAnalytics/assets/14285722/8e1a54da-9ebf-4335-91b0-0f494e95aa40)
 
-* However, the top 10 highest grossing individual movies are not the highest rated movies exception 'The Dark Knight (9.0)' . This shows even low rated movies could have good earnings. 
+* Interestingly, the top 10 highest-grossing individual movies are not necessarily the highest-rated movies, with the exception of 'The Dark Knight (9.0)'. This suggests that even movies with lower ratings can still achieve significant earnings.
 
 ![image](https://github.com/Rajat9654/DataAnalytics/assets/14285722/e208ad31-1209-48a9-8436-c7e26c7dc0d0)
 
 ### Watch Time
-* The highest earning movies watch time ~75% ranges between 1.5hr to 2.5 hrs (90min - 150mins) 
+* For the highest-earning movies, the watch time is concentrated between 1.5 hours to 2.5 hours (90 minutes - 150 minutes) ~75%.
 
 ![image](https://github.com/Rajat9654/DataAnalytics/assets/14285722/0557f447-95c1-40db-a5d9-7d39f6b10acb)
 
-* The Watch time band trend of 120 -150 mins and 90 - 120 mins have recently rose since last decade 2010 in terms of Gross. While other bands have declined.
+* Watch time bands of 120-150 mins and 90-120 mins have experienced a rise since the last decade (2010) in terms of gross earnings. However, other bands have shown a decline.
 
 ![image](https://github.com/Rajat9654/DataAnalytics/assets/14285722/430e10eb-922f-4cb2-9b53-7a8b25ae36f5)
 
 ### Genre
-* Drama genre is top in terms of gross earnings and number of movies. Comedy, Action, Adventure, Sci-fi others being in both earning and number of movies in top 5 list.
+* The drama genre leads in terms of gross earnings and the number of movies. The genres of comedy, action, adventure, and sci-fi also appear in the top 5 list in both earnings and the number of movies.
 
 ![image](https://github.com/Rajat9654/DataAnalytics/assets/14285722/774cba40-3236-454c-b508-d5c54669dc59)
 ![image](https://github.com/Rajat9654/DataAnalytics/assets/14285722/22d1cc0a-c815-4eb5-95e8-39496377cdbf)
 
-* Action, Adventure genre has really picked good in earnings after 1990's. There is decline for Drame after same period and Sci-fi not producing any commercial hit movie after 2010.
+* After the 1990s, the action and adventure genres have experienced significant growth in earnings. In contrast, the drama genre has shown a decline after the same period, and sci-fi movies have not produced any commercial hits after 2010.
 
 ![image](https://github.com/Rajat9654/DataAnalytics/assets/14285722/e8ebb235-243b-4330-b9bc-e157ffe1003d)
 
 ### Movie Starts
-* 'Chris Evans','Robert Downey Jr.','Tom Hanks','Mark Ruffalo','Leonardo Di Capro' are top 5 movie stars are part of both highest rated and gross earning movies.
+* 'Chris Evans', 'Robert Downey Jr.', 'Tom Hanks', 'Mark Ruffalo', and 'Leonardo Di Caprio' are the top 5 movie stars who have contributed to both the highest-rated and highest-grossing movies.
 
 ![image](https://github.com/Rajat9654/DataAnalytics/assets/14285722/5721e391-263e-458a-ab07-a61cd861ba17)
 ![image](https://github.com/Rajat9654/DataAnalytics/assets/14285722/3b9a4cf2-19c7-455e-9c57-1071c2ee2282)
 
 ### Director
-* 'Steven Spielsberg','Martin Scoreses', 'Alfred Hitchcock', 'Hayo Miyazaki', 'Akira Kurosawa' are top 5 directors part of both highest rated and gross earning movies. However, Steven Spielsberg movies gross earning is more than 3 times of next 4 directors combined.
+* 'Steven Spielberg', 'Martin Scorsese', 'Alfred Hitchcock', 'Hayao Miyazaki', and 'Akira Kurosawa' are the top 5 directors associated with both the highest-rated and highest-grossing movies. However, Steven Spielberg's movies' gross earnings surpass those of the next 4 directors combined.
 
   ![image](https://github.com/Rajat9654/DataAnalytics/assets/14285722/98d04e1d-513d-43e0-b762-e13951211f78)
 ![image](https://github.com/Rajat9654/DataAnalytics/assets/14285722/9a41dee4-3d2e-4a9a-bf66-b8870282ba27)
 
 ## Summary
-By performing a comprehensive analysis of the top 1000 movies on IMDb, this project aims to provide valuable insights into the film industry's trends and characteristics. It will uncover patterns that could help filmmakers, producers, and movie enthusiasts make informed decisions and gain a better understanding of what makes a successful movie in terms of ratings and earnings. However, it is crucial to keep in mind the limitations of the dataset and the potential biases in IMDb ratings while interpreting the results.
+This comprehensive analysis of the top 1000 movies on IMDb provides valuable insights into the film industry's trends and characteristics. It offers filmmakers, producers, and movie enthusiasts valuable information to make informed decisions and better understand the factors influencing a movie's success in terms of ratings and earnings. However, it is essential to consider the dataset's limitations and potential biases in IMDb ratings while interpreting the results.
